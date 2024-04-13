@@ -1,6 +1,6 @@
 import Navbar from "../page_objects/components/Navbar";
 import LoginPage from "../page_objects/pages/LoginPage";
-// TESTING V5
+// TESTING V4
 describe("Login", () => {
 	beforeEach(() => {
 		cy.visit("/index.html");
