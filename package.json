@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "cy:open": "cypress open",
-    "cypress:run": "cypress run --record"
+    "cypress:run": "cypress run --record --key 55e6029d-a44f-48bc-b6cd-08963f1bbe45 --parallel"
   },
   "author": "",
   "license": "ISC",
